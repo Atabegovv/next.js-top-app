@@ -1,0 +1,7 @@
+{
+	"extends": ["stylelint-config-standard", "stylelint-config-recommended"],
+	"plugins": ["stylelint-order"],
+	"rules": {
+		"indentation": "tab"
+	}
+}
