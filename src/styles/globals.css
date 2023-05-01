@@ -24,8 +24,10 @@ a {
 	--grey: #787D85;
 	--white: #fff;
 	--primary: #7653FC;
+	--primary-hover: #3e1dc0;
 	--green-light: #C8F8E4;
 	--green: #1DC37E;
 	--red: #FC836D;
 	--bg-color: #F5F6F8;
+	--border-color: #EBEBEB;
 }
